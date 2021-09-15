@@ -1,0 +1,8 @@
+cd "D:\github\"
+echo "# 1900011350" >> README.md
+git init
+git add README.md
+git add *
+git commit -m "first commit"
+git remote add origin https://github.com/yunchuanX/1900011350.git
+git push -u origin master
